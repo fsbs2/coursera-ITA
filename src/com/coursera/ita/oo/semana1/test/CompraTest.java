@@ -1,4 +1,4 @@
-package com.coursera.ita.oo;
+package com.coursera.ita.oo.semana1.test;
 
 import org.junit.jupiter.api.Test;
 

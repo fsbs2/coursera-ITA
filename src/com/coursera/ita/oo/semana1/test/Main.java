@@ -1,4 +1,6 @@
-package com.coursera.ita.oo;
+package com.coursera.ita.oo.semana1.test;
+
+import com.coursera.ita.oo.semana1.test.Carro;
 
 public class Main {
     public static void main(String[] args) {
