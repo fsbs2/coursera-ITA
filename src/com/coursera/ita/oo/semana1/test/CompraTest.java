@@ -1,5 +1,6 @@
 package com.coursera.ita.oo.semana1.test;
 
+import com.coursera.ita.oo.semana1.Compra;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

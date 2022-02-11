@@ -1,4 +1,4 @@
-package com.coursera.ita.oo.semana1.test;
+package com.coursera.ita.oo.semana1;
 
 public class Carro {
     int potencia;
